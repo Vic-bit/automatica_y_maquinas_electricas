@@ -1,2 +1,2 @@
 # automatica_y_maquinas_electricas
-Proyecto final de la cátedra de automática y máquinas eléctricas. Realizado en marzo del 2021.
+El proyecto está programado en Matlab, Simulink. Consiste en el Control de Accionamiento de CA con Motor Síncrono de Imanes Permanentes.
